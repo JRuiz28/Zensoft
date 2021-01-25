@@ -1,0 +1,11 @@
+D:\Usuarios\Rodo\Documentos\Análisis\ZenSoft\Zensoft\Entidades\bin\Debug\Entidades.dll.config
+D:\Usuarios\Rodo\Documentos\Análisis\ZenSoft\Zensoft\Entidades\bin\Debug\Entidades.dll
+D:\Usuarios\Rodo\Documentos\Análisis\ZenSoft\Zensoft\Entidades\bin\Debug\Entidades.pdb
+D:\Usuarios\Rodo\Documentos\Análisis\ZenSoft\Zensoft\Entidades\bin\Debug\EntityFramework.dll
+D:\Usuarios\Rodo\Documentos\Análisis\ZenSoft\Zensoft\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+D:\Usuarios\Rodo\Documentos\Análisis\ZenSoft\Zensoft\Entidades\bin\Debug\EntityFramework.xml
+D:\Usuarios\Rodo\Documentos\Análisis\ZenSoft\Zensoft\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+D:\Usuarios\Rodo\Documentos\Análisis\ZenSoft\Zensoft\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Usuarios\Rodo\Documentos\Análisis\ZenSoft\Zensoft\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+D:\Usuarios\Rodo\Documentos\Análisis\ZenSoft\Zensoft\Entidades\obj\Debug\Entidades.dll
+D:\Usuarios\Rodo\Documentos\Análisis\ZenSoft\Zensoft\Entidades\obj\Debug\Entidades.pdb
